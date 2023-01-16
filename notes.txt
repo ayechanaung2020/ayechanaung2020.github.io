@@ -1,0 +1,20 @@
+#loacl folder to git reop
+git initial
+git remote add origin (url_link)
+git remote show origin
+
+#git upload
+git status
+git add .
+git commit -m "any text"
+git push -u origin master/main
+
+#git updated
+git status
+git add .
+git commit -m "any text"
+git push -u origin master/main
+
+git remote add origin https://github.com/ayechanaung2020/linux_web_server.git
+git branch -M main
+git push -u origin master/main
